@@ -1,3 +1,5 @@
+2026/05/20 update: cwao, cwho, cwpo were deleted due to the use of incorrect wind fields. 
+
 GFDL Vortex Tracker Outputs for WP-MIP Release version 0.0
 
 Introduction of the data: WP-MIP_GFDL_Vortex_Tracker_Outputs_v0.0.pdf
