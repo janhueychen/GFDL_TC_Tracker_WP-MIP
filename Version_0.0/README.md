@@ -1,4 +1,4 @@
-2026/05/20 update: cwao, cwho, cwpo were deleted due to the use of incorrect wind fields. 
+2026/05/20 update: cwao, cwho, cwpo were deleted due to the use of incorrect wind fields. ukpo was deleted due to the use of incorrect mslp. 
 
 GFDL Vortex Tracker Outputs for WP-MIP Release version 0.0
 
